@@ -14,13 +14,9 @@ const Result = ({ name, score }) => {
 
   return (
     <div className="result">
-<<<<<<< HEAD
       <span className="title">
         Your IQ result: {score} / 10
       </span>
-=======
-      <span className="title">Final Score : {score}</span>
->>>>>>> 4c28be561f7c01757f89ef5e77b01c87cb636430
       <Button
         variant="contained"
         color="secondary"
