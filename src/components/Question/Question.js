@@ -47,7 +47,11 @@ const Question = ({
 
   return (
     <div className="question">
+<<<<<<< HEAD
       <h1>Item {currQues + 1} :</h1>
+=======
+      <h1>Question {currQues + 1} :</h1>
+>>>>>>> 4c28be561f7c01757f89ef5e77b01c87cb636430
 
       <div className="singleQuestion">
         <h2>{questions[currQues].question}</h2>
@@ -83,7 +87,11 @@ const Question = ({
             style={{ width: 185 }}
             onClick={handleNext}
           >
+<<<<<<< HEAD
             {currQues > 20 ? "Submit" : "Next item"}
+=======
+            {currQues > 20 ? "Submit" : "Next Question"}
+>>>>>>> 4c28be561f7c01757f89ef5e77b01c87cb636430
           </Button>
         </div>
       </div>

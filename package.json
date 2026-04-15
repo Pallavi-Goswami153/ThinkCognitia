@@ -1,7 +1,16 @@
 {
+<<<<<<< HEAD
   "name": "thinkcognitia",
   "version": "0.1.0",
   "private": true,
+=======
+  "name": "react-quiz-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  },
+>>>>>>> 4c28be561f7c01757f89ef5e77b01c87cb636430
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.14.1",
@@ -14,9 +23,12 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+<<<<<<< HEAD
   "devDependencies": {
     "cross-env": "^7.0.3"
   },
+=======
+>>>>>>> 4c28be561f7c01757f89ef5e77b01c87cb636430
   "scripts": {
     "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
     "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts build",

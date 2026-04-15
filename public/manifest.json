@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "short_name": "ThinkCognitia",
   "name": "ThinkCognitia — IQ evaluation",
+=======
+  "short_name": "React App",
+  "name": "Create React App Sample",
+>>>>>>> 4c28be561f7c01757f89ef5e77b01c87cb636430
   "icons": [
     {
       "src": "favicon.ico",
